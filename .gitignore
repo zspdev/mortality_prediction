@@ -218,3 +218,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Project data/outputs
+data/raw/
+data/processed/
+reports/figures/
+
+# Confidential Hungarian HCW data (NDA) - never commit or share
+data/hungarian_data/
